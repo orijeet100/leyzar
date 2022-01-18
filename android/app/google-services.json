@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193788277465",
+    "project_id": "leyzar-8518b",
+    "storage_bucket": "leyzar-8518b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193788277465:android:7b6246a9d874100c7104c8",
+        "android_client_info": {
+          "package_name": "com.example.leyzar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193788277465-5g930jpk4pk68i2mc0dnffapmjo5utop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKD9QH6o2R7NlaPzm2eTuGHNZ_HFD8pxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193788277465-5g930jpk4pk68i2mc0dnffapmjo5utop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
